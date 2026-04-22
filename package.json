@@ -19,6 +19,9 @@
     "vite": "^6.0.0"
   },
   "type": "module",
+  "engines": {
+    "node": "20"
+  },
   "dependencies": {
     "crypto-randomuuid": "^1.0.0"
   }
